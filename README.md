@@ -1,6 +1,7 @@
 # beautyshop-react
 
 
+- [Demo Project](https://beautyshop-ten.vercel.app/) 👩‍💻
 
 
 
