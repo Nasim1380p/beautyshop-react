@@ -1,5 +1,5 @@
 # beautyshop-react
-- [Demo Project]() 👩‍💻
+
 
 
 
