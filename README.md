@@ -1,5 +1,5 @@
 # beautyshop-react
-- [Demo Project](https://project-react-bice-omega.vercel.app/) 👩‍💻
+- [Demo Project](https://beautyshop-react.vercel.app/) 👩‍💻
 
 
 
